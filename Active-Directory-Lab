@@ -1,0 +1,55 @@
+# Active Directory Home Lab
+
+##  Overview
+Built a Windows Server Active Directory environment to simulate a real domain. 
+
+Practiced user management, group policies, and domain joining.
+
+---
+
+##  Tools Used
+- Windows Server
+- Windows 10 Client VM
+- VirtualBox
+
+---
+
+##  What I Built
+
+- Installed and configured Windows Server
+- Promoted server to a Domain Controller
+- Created a domain 
+- Created multiple user accounts and groups
+- Joined a Windows client machine to the domain
+- Configured Group Policy Objects 
+
+---
+
+##  Skills Practiced
+
+- Active Directory user management
+- Domain administration
+- Group Policy configuration
+- Windows networking basics
+- Troubleshooting login and domain join issues
+
+---
+
+##  Screenshots
+(Add screenshots here later)
+Example:
+- Domain Users list
+- GPO settings
+- Client machine joined to domain
+
+---
+
+##  Challenges & Fixes
+- Resolved DNS issues during domain join
+- Fixed incorrect IP configuration on client VM
+- Learned how Group Policy applies across users
+
+---
+
+##  What I Learned
+This lab helped me understand how businesses manage users and computers centrally using Active Directory, and how IT support teams troubleshoot domain-related issues.
