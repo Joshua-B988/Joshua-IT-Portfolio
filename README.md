@@ -2,7 +2,7 @@
 
 ### Hi, I'm Joshua Brown 
 
-IT support tech working toward a career in cybersecurity. I like solving problems — whether that's a broken printer or a suspicious login attempt — and I bring a security-first mindset to everyday IT work.
+IT support tech working toward a career in cybersecurity. I like solving problems, whether that's a broken printer or a suspicious login attempt, and I bring a security-first mindset to everyday IT work.
 
 **CompTIA A+ | Network+ | Security+ | ISC2 CC | Splunk Core Power User**
 
